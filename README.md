@@ -1,4 +1,6 @@
 # Work-Day-Scheduler
+Work day scheduler https://bcorporal.github.io/Work-Day-Scheduler/
+Github repository https://github.com/bcorporal/Work-Day-Scheduler.git
 
 ## Description
 
@@ -11,11 +13,6 @@ Each timeblock is color coded to indicate whether it is in the past, present, or
 ## Usage
 
 ![Work Day Scheduler](./assets/Screen%20Shot%202022-03-24%20at%2011.31.55%20PM.png)
-
-
-## Features
-
-If your project has a lot of features, list them here.
 
 ## Credits
 
